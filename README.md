@@ -3,4 +3,4 @@ Assignment 2
 
 Question 1: Pipes and signals
 
-Question 2: A signal that gets interrupted by its own signal.
+Question 2: A signal that gets interrupted by itself.
